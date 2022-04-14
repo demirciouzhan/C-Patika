@@ -18,13 +18,13 @@ class Solution {
         bool kofte = true, ekmek = false;
 
         if(kofte && ekmek){
-            Console.WriteLine("Ekmek arası köfte");
+            Console.WriteLine("Great");
         }
         else if(kofte){
-            Console.WriteLine("Köfte menü");
+            Console.WriteLine("Perfect");
         }
         else if(ekmek){
-            Console.WriteLine("Ekmek arası ekmek");
+            Console.WriteLine("Amazing");
         }
 
         int baraj = 50;
